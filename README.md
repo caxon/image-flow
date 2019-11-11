@@ -39,7 +39,7 @@ These functions end the chain of methdods and return a value
 * **imnz():** returns a zoomed and normalized PIL image
 * **array():** returns the raw data in the array
 
-### Todo list:
+## Todo list:
  - Implement parallelization using [joblib](https://joblib.readthedocs.io/en/latest/parallel.html).
  - Display multiple images on the same line using matplotlib.pyplot to draw images
  - Implement additional greyscale operations
